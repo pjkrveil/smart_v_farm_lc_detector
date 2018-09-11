@@ -31,7 +31,7 @@ files2.txt :
 
 ### To run : 
 
-    `python pano.py <txtlists/filename_.txt>`
+    python pano.py ./txtlists/filename_.txt
 
 
 ### Other WebSources for Images : 
