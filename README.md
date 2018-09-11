@@ -34,26 +34,6 @@ files2.txt :
     `python pano.py <txtlists/filename_.txt>`
 
 
-## Outputs !! 
-
-<center>
-<img src="lunchroom_ultimate.jpg" ><br>
-<caption>Stitching with Lunchroom example</caption>
-<br><br>
-<img src="wd123.jpg" ><br>
-<caption>Stitching with home example</caption>
-<br><br>
-<img src="test.jpg" ><br>
-<caption>Stitching with building example</caption>
-<br><br>
-<img src="test12.jpg"><br>
-<caption>Stitching using Hill example</caption>
-<br><br>
-<img src="test1.jpg" ><br>
-<caption>Stitching using room example</caption>
-<br>
-</center>
-
 ### Other WebSources for Images : 
 Base paper for panorama using scale invariant features :
 
